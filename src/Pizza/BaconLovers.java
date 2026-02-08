@@ -20,4 +20,5 @@ public class BaconLovers extends PizzaJFrame {
     public int getfamPrice(){
         return famprice;   
     }   
+
 }
